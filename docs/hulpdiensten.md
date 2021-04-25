@@ -15,7 +15,7 @@
 # Regels Politie
 
  ➥ Bij een winkel overval mogen de DSI/BSB niet komen mits er automatische vuurwapens aanwezig zijn of er meer dan 4 gegijzelden zijn met een dreigingsniveau van 4 of hoger. Gebeurt dit wel valt dit onder "Fail-rp".</br>
- ➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of BE of BSB anders is dit niet toegestaan.
+ ➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of BE of BSB anders is dit niet toegestaan.</br>
  ➥ Je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zij een steekvest dragen mag je ze wel reviven. Doe dit wel na het scenario. </br>
  ➥ Het gebruik van vuurwapens door de politie is in de volgende scenarios toegestaan: de verdachte vuurwapen gevaarlijk of mogelijk gevaarlijk is, een collega of burger in gevaar is, </br>
  ➥ Het gebruik van vuurwapens in een achtervoling door de politie is toegestaan mits er op de banden word geschoten anders niet! pas als de auto stilstaat mogen er wapens gericht op de verdachte gericht worden.</br>
