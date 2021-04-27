@@ -79,6 +79,7 @@
      ➥ Het vluchten nadat iemand je probeert te pitten, overvallen, kidnappen naar een greenzone is ten strengste verboden! <br>
      ➥  OOC praten in een scenario is ten strengste verboden <br>
      ➥  Iemand doodschieten zonder RP hierbij zal het gebruikte wapen worden ingenomen.<br>
+     ➥  Vanuit een auto of ander voertuig drugs plukken/verpakken is NIET toegestaan.<br>
 
 ◦ <b>Communicatie regels</b><br>
      ➥ Worden je Communicatie middelen afgepakt dien je jezelf te muten in discord, porto, etc hierbij zal ook je bodycam moeten worden afgesloten.<br>
