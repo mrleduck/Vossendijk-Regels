@@ -8,6 +8,7 @@
  ➥ Het in dienst gaan zonder de goede dienst kleding is ten strengste verboden.</br>
  ➥ Het is niet toegestaan om als hulpdienst criminele activiteiten uit te voeren, zowel in als uit dienst niet.</br>
  ➥ Het scammen van hulpdiensten is niet toegestaan.</br>
+ ➥ Het overvallen van hulpdiensten is niet toegestaan.</br>
 
 
 
