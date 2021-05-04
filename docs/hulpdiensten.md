@@ -1,8 +1,8 @@
 # Algemene regels hulpdiensten 
 
- ➥ Het agressief benaderen van Politie, Ambulance, Taxi en ANWB is niet toegestaan. Blijf ten alle tijde vriendelijk.</br>
+ ➥ Het agressief benaderen van Politie, Kmar, Ambulance, Taxi en ANWB is niet toegestaan. Blijf ten alle tijde vriendelijk.</br>
  ➥ Het stelen van overheidsvoertuigen is niet toegestaan. Hieronder vallen de voertuigen van de Politie, Ambulance, ANWB, Rijkswaterstaat en Taxi.</br>
- ➥ op het moment van het uitvoeren van een overheidsbaan MOET je gebruik maken van de porto dit om de roleplay te verbeteren.</br>
+ ➥ Op het moment van het uitvoeren van een overheidsbaan MOET je gebruik maken van de porto dit is om de roleplay te verbeteren.</br>
  ➥ Het is ten alle tijden niet toegestaan om corrupt te zijn. Als je dit wel doet ben je per direct ontslagen.</br>
  ➥ Het oproepen van collega's via discord omdat er bijvoorbeeld een overval is valt onder "Metagamen".</br>
  ➥ Het in dienst gaan zonder de goede dienst kleding is ten strengste verboden.</br>
@@ -13,17 +13,17 @@
 
 
 
-# Regels Politie
+# Regels Politie/Kmar
 
  ➥ Bij een winkel overval mogen de DSI/BSB niet komen mits er automatische vuurwapens aanwezig zijn of er meer dan 4 gegijzelden zijn met een dreigingsniveau van 4 of hoger. Gebeurt dit wel valt dit onder "Fail-rp".</br>
  ➥ Je mag alleen zware wapens gebruiken als je indienst bent als DSI of BE of BSB anders is dit niet toegestaan.</br>
  ➥ Je mag je collega's niet reviven als zij zijn neergeschoten ook niet als zij een kogelwerend vest dragen. Als zij zijn neergestoken terwijl zij een steekvest dragen mag je ze wel reviven. Doe dit wel na het scenario. </br>
- ➥ Het gebruik van vuurwapens door de politie is in de volgende scenarios toegestaan: de verdachte vuurwapen gevaarlijk of mogelijk gevaarlijk is, een collega of burger in gevaar is, </br>
- ➥ Het gebruik van vuurwapens in een achtervoling door de politie is toegestaan mits er op de banden word geschoten anders niet! pas als de auto stilstaat mogen er wapens gericht op de verdachte gericht worden.</br>
- ➥ Het pitten door de politie is toegestaan mits het onder de 100 KM/U is. </br>
+ ➥ Het gebruik van vuurwapens door de politie/Kmar is in de volgende scenarios toegestaan: de verdachte vuurwapen gevaarlijk of mogelijk gevaarlijk is, een collega of burger in gevaar is, </br>
+ ➥ Het gebruik van vuurwapens in een achtervoling door de politie/Kmar is toegestaan mits er op de banden word geschoten anders niet! pas als de auto stilstaat mogen er wapens gericht op de verdachte gericht worden.</br>
+ ➥ Het pitten door de politie/Kmar is toegestaan mits het onder de 100 KM/U is. </br>
  ➥ Het brake checken (het remmen voor een auto die achter je zit) is toegestaan. </br>
  ➥ Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger. </br>
- ➥ Het liegen tegen de gijzelnemers vanuit de politie is toegestaan.</br>
+ ➥ Het liegen tegen de gijzelnemers vanuit de politie/Kmar is toegestaan.</br>
  ➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt.</br>
  ➥ 
  ➥ 
