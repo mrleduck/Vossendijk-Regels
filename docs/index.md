@@ -46,7 +46,8 @@
 
 ◦ <b>Green zones</b> ➥ In een green zone mag je niemand vermoorden/overvallen / Criminele activiteiten uitvoeren. Op de volgende locaties zijn greenzone: Politiebureau, Kmarbureau, Ziekenhuis, Anwb, Cardealer, Blokkenpark, Casino.
 
-◦ <b>IRL geld</b> ➥ Het is in geen enkele wijze toegestaan om diensten/spullen te verkopen voor IRL geld hier staat een permanente ban op, ben jij een koper van deze diensten/spullen dan zullen die per direct ingenomen worden.
+◦ <b>IRL geld</b> ➥ Het is in geen enkele wijze toegestaan om diensten/spullen te verkopen voor IRL geld hier staat een permanente ban op.
+  ➥ ben jij een koper van deze diensten/spullen dan zullen die per direct ingenomen worden.
 
 ◦ <b>Spullen weggeven/verkopen</b> ➥ Het niet toegestaan om je spullen/geld weg te geven of om spullen goedkoop of super goedkoop te verkopen hiermee verpest je de economy voor toekomstige spelers. 
 
