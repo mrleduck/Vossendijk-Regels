@@ -13,6 +13,7 @@
 
 
 
+
 # Regels Politie/Kmar
 
  ➥ Bij een winkel overval mogen de DSI/BSB niet komen mits er automatische vuurwapens aanwezig zijn of er meer dan 4 gegijzelden zijn met een dreigingsniveau van 4 of hoger. Gebeurt dit wel valt dit onder "Fail-rp".</br>
@@ -33,6 +34,7 @@
  ➥ Het reviven van mensen die zijn doodgeschoten of neergestoken is niet toegestaan, tenzij de persoon vervoerd word naar het ziekenhuis en daar een uitgebreide operatie krijgt.(bekijkt wel hoe erg de persoon verwond is)</br>
  ➥ Het samenwerken met de onderwereld is niet toegestaan dit valt onder corruptie.</br>
  ➥ Het betaald krijgen om iemand te reviven is niet toegestaan dit valt onder corruptie.</br>
+ ➥ Het Vermoorden van een indienst ambulance is niet toegestaan hun zijn hier om jou te helpen. (maar de ambulance moet zich wel houden aan de value of life rule)</br>
  ➥ De desbetreffende persoon niet meer aanspreekbaar is.</br> 
 
 # Regels Anwb
