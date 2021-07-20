@@ -4,8 +4,6 @@
 
 ◦ <b>RDM</b> (Random Deathmatch) ➥ Het doden van een persoon zonder voorafgaande roleplay (zoals: een verkeersongeluk, iemand uitschelden en 1 x per ongeluk slaan zijn hier voorbeelden van) is niet toegestaan.
 
-◦ <b>Gta Drive Style</b> ➥ Het met hoge snelheden door de stad heen rijden, stunt jumps nemen, onrealistisch offroad rijden, rammen van andere voertuigen en met hoge snelheid met een lekke band rijden is niet toegestaan. Off-road banden zijn puur cosmetisch en hebben geen effect op de weg.
-
 ◦ <b>Karakter Breken</b> ➥ Het ooc gaan in een roleplay situatie is niet toegestaan. Als iemand dit doet probeer het scenario zo goed mogelijk te eindigen. Je moet ten alle tijden de roleplay afmaken
 
 ◦ <b>Combat Loggen</b> ➥ Het verlaten van de server tijdens een scenario is niet toegestaan. Bedenk voordat je een scenario begint of je genoeg tijd hebt. Ook het uitloggen terwijl je dood is niet toegestaan.
