@@ -26,7 +26,7 @@
  ➥ Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger. </br>
  ➥ Het liegen tegen de gijzelnemers vanuit de politie/Kmar is toegestaan.</br>
  ➥ Het indrukken van de noodknop terwijl er wapens op je worden gericht is niet toegestaan mits je geblindeerde ramen hebt.</br>
- ➥ 
+ ➥ Schieten vanuit de auto mag alleen op de banden of op het voertuig zelf niet op de personen. </br>
  ➥ 
  ➥ 
 
