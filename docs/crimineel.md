@@ -69,6 +69,7 @@
      ➥ Als er een Mes op je gericht staat en je zit in een Auto mag je doorrijden.<br>
      ➥ Als er een vuurwapen op je gericht staat dien je ten alle tijden mee te werken! Wegrennen of de desbetreffende persoon aanvallen is ten strengste verboden en           word de No Value of Life regel toegepast<br>
      ➥ Word er geen wapen gericht op jou of je collega’s en heeft hij of zij hem niet meer in zijn hand mag je je wapen trekken, mits je niet meer in het zicht van de        overvaller of politie bent, ben je in de minderheid is een wapen trekken een NO GO! <br>
+     ➥ Schieten vanuit de auto mag alleen op de banden of op het voertuig zelf niet op de personen.
 
 ◦ <b>Regels ten aanzien van auto gebruik</b> <br>
      ➥ Het pitten onder de 100 KM Per/Uur is toegestaan! Remt degene die wordt achtervolgd en de politieauto of normale auto's botst ertegenaan is dit toegestaan.<br> 
