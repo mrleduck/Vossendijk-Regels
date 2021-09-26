@@ -8,6 +8,7 @@
    - Als je bent vermoord door een vuurwapen.</b></br>
    - Als je bent doodgestoken / dood geslagen.</b></br>
    - Als je bent doodgebloed.</b></br>
+   - Als je bent behandelt door de arts in het ziekenhuis.</b></br>
 
 ➥ Wat weet je nog wel! </b> 
    - De contacten in je telefoon.</br>
