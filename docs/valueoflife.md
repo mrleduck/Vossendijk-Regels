@@ -13,6 +13,7 @@
    - Sta je boven op de dam blijf dan staan en spring er niet van af spring je er wel van af : No Value of Life</br>
    - Word er iets aan je gevraagt terwijl je onderschot word gehouden werk dan gelijk mee en ga niet treuzelen : No Value of Life</br>
    - Rijd de auto boven de 80 KM/PU en je springt eruit valt dit onder : No Value of Life </br>
-   - onnodig voor een auto gaan staan valt onder : No Value of Life . </br>
-   - onnodig van een gebouw of brug afspringen valt onder : No Value of Life  . </br>
+   - Onnodig voor een auto gaan staan valt onder : No Value of Life . </br>
+   - Onnodig van een gebouw of brug afspringen valt onder : No Value of Life  . </br>
+   - Naar een groot schiet incident heen rennen/naar schoten heen rennen tenzij je geen optie hebt om wegtekomen zal dit vallen onder : No Value of Life. </br>
 © 2021 Vossendijk
