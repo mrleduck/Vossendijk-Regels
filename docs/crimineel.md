@@ -1,10 +1,13 @@
 # Criminele Circuit
 
-◦ <b>Scammen</b> ➥ Het is niet toegestaan om te scammen met voertuigen of mensen te scammen die bezig zijn met een (non)whitelistedjob. Mits je wel scamt bij bovenwereld activiteiten zal hier een limiet gelden van €30.000. Als spelers onderwereld activiteiten uitvoert mag je wel gescammed worden. Denk aan drugs, locaties en wapens. Hier zit GEEN limiet op.
+◦ <b>Scammen</b></br>
+     ➥ Het is niet toegestaan om te scammen met voertuigen of mensen te scammen die bezig zijn met een (non)whitelistedjob. Mits je wel scamt bij bovenwereld activiteiten zal hier een limiet gelden van €30.000. Als spelers onderwereld activiteiten uitvoert mag je wel gescammed worden. Denk aan drugs, locaties en wapens. Hier zit GEEN limiet op.
 
-◦ <b>Twitter</b> ➥ Twitter is geen illegaal platform waar jij spullen mag verkopen zoals: wapens, drugs locaties en andere criminele informatie. Deze regels gelden het zelfde voor het <b>kopen</b> van criminele informatie op het platform.
+◦ <b>Twitter</b></br>
+     ➥ Twitter is geen illegaal platform waar jij spullen mag verkopen zoals: wapens, drugs locaties en andere criminele informatie. Deze regels gelden het zelfde voor het <b>kopen</b> van criminele informatie op het platform.
 
-◦ <b>Darkchat</b> ➥ Darkchat is een illegaal platform waar jij spullen mag verkopen zoals: wapens, drugs locaties en andere criminele informatie. Deze regels gelden het zelfde voor het <b>kopen</b> van criminele informatie op Darkchat de actieve chats moet je ingame achterhalen. 
+◦ <b>Darkchat</b></br>
+     ➥ Darkchat is een illegaal platform waar jij spullen mag verkopen zoals: wapens, drugs locaties en andere criminele informatie. Deze regels gelden het zelfde voor het <b>kopen</b> van criminele informatie op Darkchat de actieve chats moet je ingame achterhalen. 
 
 ◦ <b>Ontvoeren</b> <br>
      ➥ Het ontvoeren van burgers is toegestaan zolang er een goeie RP, Of gedachte achter zit die kan worden uitgelegd door middel van een clip. <br>
