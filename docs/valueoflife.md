@@ -2,7 +2,7 @@
 
 ➥ Value of life inhoud </b></br>
    - een leven in Vossendijk is waardevol dus dit mag niet zomaar worden beindigt door jezelf. Dit noemen wij No Value of Life en dit is tegen de regels van Vossendijk </br>
-   - in een scenario waarin er een wapen op je wordt gericht moet je altijd luisteren doe je dit niet valt dit onder No Value of Life.</br>
+   - in een scenario waarin er een wapen op je wordt gericht of de persoon houd een wapen vast moet je je altijd houden aan VOL (Value of life) doe je dit niet valt dit onder No Value of Life.</br>
    - Het zelf beindigen van je leven voor onnodige redenen is niet toegestaan! (denk hierbij aan: het niet luisteren als je wordt overvallen, het zelf springen van de dam af, uit een auto springen die hard rijdt.</br>
 
 ➥ Conclusie </b>
