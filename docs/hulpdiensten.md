@@ -2,11 +2,12 @@
 
  ➥ Het agressief benaderen van Politie, Kmar, Ambulance, Taxi en ANWB is niet toegestaan. Blijf ten alle tijde vriendelijk.</br>
  ➥ Het stelen van overheidsvoertuigen is niet toegestaan. Hieronder vallen de voertuigen van de Politie, Ambulance, ANWB, Rijkswaterstaat en Taxi.</br>
+    ➥ Uitzondering als er in dat scenario geen ander beschikbaar voertuig is en je pakt het voertuig met voldoende rp.</br>
  ➥ Op het moment van het uitvoeren van een overheidsbaan MOET je gebruik maken van de porto dit is om de roleplay te verbeteren.</br>
  ➥ Het is ten alle tijden niet toegestaan om corrupt te zijn. Als je dit wel doet ben je per direct ontslagen.</br>
  ➥ Het oproepen van collega's via discord omdat er bijvoorbeeld een overval is valt onder "Metagamen".</br>
  ➥ Het in dienst gaan zonder de goede dienst kleding is ten strengste verboden.</br>
- ➥ Het is niet toegestaan om als hulpdienst criminele activiteiten uit te voeren, zowel in als uit dienst niet.</br>
+ ➥ Hkienst niet.</br>
  ➥ Het scammen van hulpdiensten is niet toegestaan.</br>
  ➥ Het overvallen van hulpdiensten is niet toegestaan.</br>
 
@@ -22,6 +23,7 @@
  ➥ Het gebruik van vuurwapens door de politie/Kmar is in de volgende scenarios toegestaan: de verdachte vuurwapen gevaarlijk of mogelijk gevaarlijk is, een collega of burger in gevaar is, </br>
  ➥ Het gebruik van vuurwapens in een achtervoling door de politie/Kmar is toegestaan mits er op de banden word geschoten anders niet! pas als de auto stilstaat mogen er wapens gericht op de verdachte gericht worden.</br>
  ➥ Het pitten door de politie/Kmar is toegestaan mits het onder de 100 KM/U is. </br>
+ ➥ Jezelf gebruiken als een roadblock/pit mag niet behalve als de passerende auto onder de 100 rijd(ivm value of life). </br>
  ➥ Het brake checken (het remmen voor een auto die achter je zit) is toegestaan. </br>
  ➥ Het preventief fouilleren is toegestaan als er een dreigingsniveau is van 4 of hoger. </br>
  ➥ Het liegen tegen de gijzelnemers vanuit de politie/Kmar is toegestaan.</br>
