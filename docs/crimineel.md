@@ -57,12 +57,14 @@
      ➥ Het losgeld vragen voor een politie agent is toegestaan het maximale bedrag van dit bedraagt 50.000 euro. <br>
      ➥ Het meerdere malen op 1 dag een en dezelfde agent ontvoeren is niet toegestaan. <br>
      ➥ Het maximale agenten dat mag worden ontvoert per dag is 3. <br>
+     ➥ Het binnen vallen/overnemen van het HB mag pas bij 6 agenten online en het moet een korte gerichte rp zijn met 1 doel <br>
+        ➥ Dus niet een onnodige schoot-out het is naar binnen voor je target en naar buiten en weg! <br>
 
 ◦ <b>Wanneer mag je gefouilleerd worden</b><br>
      ➥ Als je een holster om hebt.<br>
      ➥ Als je vlucht voor de politie.<br>
-     ➥ Preventief fouilleren mag wanner het dreigingsniveau 5 is.<br>
-     ➥ Fouilleren mag als er een schietmelding in de omgeving is.<br>
+     ➥ Preventief fouilleren mag wanner het dreigingsniveau 4 is.<br>
+     ➥ Fouilleren mag als er een schietmelding in de omgeving is en je voldoet aan de beschrijving/signalement.<br>
      ➥ Fouilleren mag als ze je betrappen op illegale activiteiten.<br>
      ➥ Je mag NIET worden gefouilleerd als je een verkeersovertreding begaat.<br>
 
