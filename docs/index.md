@@ -4,7 +4,7 @@
 
 ◦ <b>RDM</b> (Random Deathmatch) ➥ Het doden van een persoon zonder voorafgaande roleplay (zoals: een verkeersongeluk, iemand uitschelden en 1 x per ongeluk slaan zijn hier voorbeelden van) is niet toegestaan.
 
-◦ <b>Gta Style Driving</b> ➥ Het is toegestaan om met voertuigen offroad te rijden. Het is niet toegstaan om onrealistische sprongen te maken
+◦ <b>Gta Style Driving</b> ➥ Het is toegestaan om met voertuigen offroad te rijden. Het is niet toegstaan om onrealistische sprongen te maken. MAAR Nogsteeds geld de No Value of Life rule
 
 ◦ <b>Karakter Breken</b> ➥ Het ooc gaan in een roleplay situatie is niet toegestaan. Als iemand dit doet probeer het scenario zo goed mogelijk te eindigen. Je moet ten alle tijden de roleplay afmaken
  
