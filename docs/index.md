@@ -7,12 +7,12 @@
 ◦ <b>Gta Style Driving</b> ➥ Het is toegestaan om met voertuigen offroad te rijden. Het is niet toegstaan om onrealistische sprongen te maken
 
 ◦ <b>Karakter Breken</b> ➥ Het ooc gaan in een roleplay situatie is niet toegestaan. Als iemand dit doet probeer het scenario zo goed mogelijk te eindigen. Je moet ten alle tijden de roleplay afmaken
-
+ 
 ◦ <b>Combat Loggen</b> ➥ Het verlaten van de server tijdens een scenario is niet toegestaan. Bedenk voordat je een scenario begint of je genoeg tijd hebt. Ook het uitloggen terwijl je dood is niet toegestaan.
 
-◦ <b>Combat Storing</b> ➥ Bijvoorbeeld je auto in de garage zetten en/of vervolgens een ander voertuig uit je garage pakken of het niet meewerken bij een huiszoeking.
+◦ <b>Combat Storing</b> ➥ Bijvoorbeeld je auto in de garage zetten en/of vervolgens een ander voertuig uit je garage pakken of het niet meewerken bij een huiszoeking of auto repareren.
 
-◦ <b>Scenario Verstoren</b> ➥ Het verstoren van scenario's is niet toegestaan. Bijvoorbeeld politie van hun werk afhouden of niet luisteren naar vorderingen. 
+◦ <b>Scenario Verstoren</b> ➥ Het verstoren van scenario's is niet toegestaan. Bijvoorbeeld politie van hun werk afhouden of niet luisteren naar vorderingen als je niet DIRECT bij het scenario betrokken bent. 
 
 ◦ <b>Racisme</b> ➥ Racisme om ras, huidskleur, religie etc is niet toegestaan. Het vals beschuldigen van racisme is ook niet toegestaan. 
 
@@ -22,15 +22,15 @@
 
 ◦ <b>Powergamen</b> ➥ Een binnen de game verkregen functie misbruiken en daar jou voordeel uithalen.
 
-◦ <b>Bugs</b> ➥ Het misbruiken van bugs en niet melden is niet toegestaan. Hier staat een <b>permanente</b> ban op staan.
+◦ <b>Bugs</b> ➥ Het misbruiken van bugs en niet melden is niet toegestaan. Hier zal een <b>permanente</b> ban op staan.
 
-◦ <b>Cheats</b> ➥ Het gebruik van hack/mods is niet toegestaan. Hier staat een <b>permanente</b> ban op.
+◦ <b>Cheats</b> ➥ Het gebruik van hack/mods is niet toegestaan. Hier zal een <b>permanente</b> ban op.
 
-◦ <b>Alt Accounts</b> ➥ Het gebruik van alt accounts is niet toegestaan. Hier staat een <b>permanente</b> ban op staan.
+◦ <b>Alt Accounts</b> ➥ Het gebruik van alt accounts is niet toegestaan. Hier zal een <b>permanente</b> ban op staan.
 
 ◦ <b>Crosshair</b> ➥ Het gebruik van een extern "richt puntje" is niet toegestaan. 
 
-◦ <b>Soundboard/Voicechanger</b> ➥ Het gebruik van een soundboard/voicechanger is niet toegestaan.
+◦ <b>Soundboard/Voicechanger</b> ➥ Het gebruik van een voicechanger is toegestaan, ZOLANG het niet irritant of als hinderlijk word ervaren. een soundboard is NIET toegestaan
 
 ◦ <b>Schelden Met ziektes</b> ➥ Het schelden met ziektes is op geen enkele wijze toegestaan.
 
@@ -44,7 +44,7 @@
 
 ◦ <b>Refunds</b> ➥ Voorwerpen worden niet gerefund zonder daadwerkelijk bewijs via een clip systeem zoals medal of instant replay. Maak hiervoor een ticket aan. Screenshots zijn niet toegestaan.
 
-◦ <b>Green zones</b> ➥ In een green zone mag je niemand vermoorden/overvallen / Criminele activiteiten uitvoeren. Op de volgende locaties zijn greenzone: Politiebureau, Kmarbureau, Ziekenhuis, Anwb, Cardealer, Blokkenpark, Casino.
+◦ <b>Green zones</b> ➥ In een green zone mag je niemand vermoorden/overvallen / Criminele activiteiten uitvoeren. Op de volgende locaties zijn greenzone: Ziekenhuis, Cardealer, Blokkenpark, Casino.
 
 ◦ <b>IRL geld</b><br>
      ➥ Het is in geen enkele wijze toegestaan om diensten/spullen te verkopen voor IRL geld hier staat een permanente ban op.<br>
