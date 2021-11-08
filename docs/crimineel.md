@@ -17,7 +17,7 @@
 
 ◦ <b>Overvallen van burgers</b> <br>
      ➥ Het overvallen van iemand die een NON whitelisted job(UWV baan) uitvoert is streng verboden (Kan je zien aan de Outfit!)<br> 
-     ➥ Het overvallen van burgers in openbare plekken is niet toegestaan! (BPG appartementen,Ziekenhuis,PolitieBureau,BPG). <br>
+     ➥ Het overvallen van burgers in openbare plekken is niet toegestaan! (BP appartementen,Ziekenhuis,PolitieBureau,BPG). <br>
      ➥ Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden!(kan je niet altijd voorkomen maar hou er wel rekening mee) <br>
      ➥ Het overvallen van burgers die in een greenzone staan mogen niet worden overvallen dit is streng verboden! <br>
      ➥ Na het overvallen van een burger mag je hem/haar niet vermoorden.<br>
