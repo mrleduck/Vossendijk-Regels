@@ -20,4 +20,4 @@
    - Onnodig van een gebouw of brug afspringen valt onder : No Value of Life & FailRP . </br>
    - Je eigen auto voor een snelrijdende auto gooien om hem zo te blokkeren valt onder: No Value of Life & No Value of Property & FailRP /br<>
    - Naar een groot schiet incident heen rennen/naar schoten heen rennen tenzij je geen optie hebt om wegtekomen zal dit vallen onder : No Value of Life. </br>
-© 2021 Vossendijk
+© 2022 Vossendijk
