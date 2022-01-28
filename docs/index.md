@@ -44,12 +44,12 @@
 
 ◦ <b>Refunds</b> ➥ Voorwerpen worden niet gerefund zonder daadwerkelijk bewijs via een clip systeem zoals medal of instant replay. Maak hiervoor een ticket aan. Screenshots zijn niet toegestaan.
 
-◦ <b>Green zones</b> ➥ In een green zone mag je niemand vermoorden/overvallen / Criminele activiteiten uitvoeren. Op de volgende locaties zijn greenzone: Ziekenhuis, Cardealer, Blokkenpark, Casino.
+◦ <b>Green zones</b> ➥ In een green zone mag je niemand vermoorden/overvallen / Criminele activiteiten uitvoeren. Op de volgende locaties zijn greenzone: Ziekenhuis, Cardealer, Casino.
 
 ◦ <b>IRL geld</b><br>
      ➥ Het is in geen enkele wijze toegestaan om diensten/spullen te verkopen voor IRL geld hier staat een permanente ban op.<br>
      ➥ Ben jij een koper van deze diensten/spullen dan zullen die per direct ingenomen worden.<br>
 
-◦ <b>Spullen weggeven/verkopen</b> ➥ Het niet toegestaan om je spullen/geld weg te geven of om spullen goedkoop of super goedkoop te verkopen hiermee verpest je de economy voor toekomstige spelers. 
+◦ <b>Spullen weggeven/verkopen</b> ➥ Het niet toegestaan om je spullen/geld weg te geven of om spullen goedkoop te verkopen hiermee verpest je de economy voor toekomstige spelers. 
 
-© 2021 Vossendijk
+© 2022 Vossendijk
