@@ -29,14 +29,11 @@
 # Regels Anwb
  ➥ Het weigeren van mensen is toegestaan als er een dreiging word geuit of er een gevaarlijke situatie voorkomt. </br>
  ➥ Bij het maken van een melding moet je de locatie er bij vermelden anders word je melding niet opgenomen. </br>
- ➥ 
+ 
 
 # Regels Taxi
  ➥ Taxi mag personen weigeren als er een dreiging vormt of is voor de chauffeur van de taxi.</br>
- ➥ 
- ➥
- ➥
- ➥
+
 
 # Let op! niet alle regels zullen hierboven vermeld worden!
 © 2022 Vossendijk
