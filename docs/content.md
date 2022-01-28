@@ -14,4 +14,4 @@
 
 ◦ <b>Copyright</b> ➥ Er mag geen copyright content te zien zijn op jouw content.
 
-© 2021 Vossendijkrp
+© 2022 Vossendijkrp
